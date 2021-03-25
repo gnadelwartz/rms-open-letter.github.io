@@ -1295,1059 +1295,1060 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Justin Wake
 1. Justin W. Flory (UNICEF, Fedora Project D&I Advisor)
 1. Kai Ninomiya (Google LLC, W3C editor)
-1. Kaleb Alves
-1. Kali Escher
-1. Kamila Szewczyk (`@kspalaiologos`)
-1. Kara "apaleslimghost" Brightwell
-1. Kararou Ren
-1. Karen Bruner
-1. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
-1. Karol Herbst (Nouveau, X.org, Red Hat)
-1. Karsten Gerloff (former president, Free Software Foundation Europe, 2009-2015)
-1. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
-1. Karthik Kumar Viswanathan
-1. Kate Travers
-1. Katharine Berry
-1. Katherine Flavel
-1. Kathleen Burkhardt
-1. Kathleen Lu
-1. Kathryn Spiers
-1. Katie Chan
-1. Katie Gamanji
-1. Katie McLaughlin (Python Software Foundation, former Linux Australia council)
-1. Katrina Riehl (NumFOCUS Board Member)
-1. Kavi Laud
-1. Kayla Anne Cupples
-1. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
-1. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
-1. Kellegram
-1. Kelly Hopkins (former FSF staffer)
-1. Kemal Akkoyun
-1. Kendra Albert
-1. Ken Guest (PEAR, Phing)
-1. Ken Irwin
-1. Kenneth Gardner
-1. Kenneth Love (PSF Fellow)
-1. Kenny Huynh
-1. Kevin Ackroyd
-1. Kevin Bloch
-1. Kevin Carson (researcher on postcapitalist transition)
-1. Kevin Gimbel
-1. Kevin Johnson
-1. Kevin Jullien (`@jukefr`)
-1. Kevin Lannen
-1. Kevin López B.
-1. Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
-1. Kevin Messer
-1. Kevin O'Brien
-1. Kevin P. Fleming
-1. Kevin Sonney
-1. Kev Quirk
-1. Khionu Sybiern
-1. Khosrow Moossavi
-1. Kieran D
-1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
-1. Kiran Jonnalagadda
-1. Kirill Sokolov (@novathefaded)
-1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
-1. Kitteh
-1. Kojo Idrissa (Djangocon US organizer, DEFNA North American Ambassador)
-1. Konstantina Papadea
-1. Kosta Harlan
-1. Kot Cat (@kotx)
-1. Koz Ross (former FSF associate student member)
-1. Konrad Geletey (@kogeletey)
-1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
-1. Kris Buytaert
-1. Kristi Progri
-1. Krzysztof Sakrejda
-1. Kuesji Koesnu
-1. Kukuh Syafaat (GNOME, openSUSE)
-1. Kumar Anirudha
-1. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
-1. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
-1. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
-1. Kyle Kneitinger
-1. Kyle Mitchell
-1. Kyle Riedemann
-1. Kyle Robbertze (Debian Developer)
-1. Lachlan Campbell
-1. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
-1. Lander Van den Bulcke
-1. Langlais Raphael
-1. Lars Liedtke
-1. Lars Wirzenius
-1. Laura Arjona Reina
-1. Laura Hausmann
-1. Laura Lytle
-1. Laura Smith
-1. Laurence Berland
-1. Lauren Liberda (@selfisekai)
-1. Laurent Doguin
-1. Laurent Peuch
-1. Laurin Schmidt
-1. Laurynas `NeLaurynas` K.
-1. Leah Lundqvist (leahlundqvist, V maintainer)
-1. Leandro A. F. Pereira
-1. Lee Hambley (Capistrano maintainer, former FSFE member)
-1. Lee-Roy King
-1. Leif Walsh
-1. Leigh Scott (leigh123linux, Fedora)
-1. leo60228
-1. Leo Famulari
-1. Leon N.
-1. Leo Wagner
-1. Liam Dawe (GamingOnLinux.com)
-1. Liam R. Howlett (kernel developer)
-1. Liera Zaitseva
-1. Lili McCoy
-1. Lilly Winfree (Open Knowledge Foundation)
-1. Lily Ballard
-1. Lily Foster (@lilyinstarlight)
-1. Lina B (elatelation)
-1. Linda Fernández
-1. Lindsay Holmwood (former Vice President of Linux Australia)
-1. Link Dupont (GNOME Foundation)
-1. Linus A. Wozniak (@MadsRach)
-1. Linus Groh
-1. Linus Parker
-1. Lioncache
-1. Lionel Debroux
-1. Lionirdeadman
-1. Lisa Seelye
-1. Liza Ainalen Dosso
-1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
-1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
-1. Lleyton Gray (CEO, Innatical)
-1. Logan Kilpatrick (The Julia Language Community Manager)
-1. Lorena Mesa
-1. Lorenzo Gomez
-1. Louis Borsu
-1. Louis-Francis Ratté-Boulianne (Collabora)
-1. Louis Jones
-1. Louis-Philippe Véronneau (Debian Developer)
-1. Louis Suárez-Potts
-1. Luana Neder
-1. Luca Andrea Fusè
-1. Luca Martinelli
-1. Lucas Biaggi (KDE contributor)
-1. Lucas Bickel
-1. Lucas Holt
-1. Lucas Ives (@lri)
-1. Lucas Nussbaum (Former Debian Project Leader)
-1. Lucas Werkmeister
-1. Luc Rocher (Imperial College London)
-1. Lucy Wyman
-1. Ludovic Gasc
-1. Ludvig Norgren Guldhag
-1. Luis Antonio Sánchez Romero
-1. Luis Arruda
-1. Luis Lavaire (Nitrux developer)
-1. Luiz Irber
-1. Lukas Ekberg
-1. Lukas Fittl
-1. Lukas Grossar
-1. Lukas Häusermann
-1. Lukas Märdian (Ubuntu Core Developer)
-1. Lukasz Erecinski
-1. Łukasz Jendrysik
-1. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
-1. Luke Crouch
-1. Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
-1. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
-1. Luke Triantafyllidis
-1. Lulu Cathrinus "erkin" Grimalkin
-1. Luna Duclos
-1. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
-1. Lupe Canaviri
-1. Lup Yuen Lee
-1. Lux Amelia Phifollen
-1. Lyre Calliope
-1. Maarten Beeckmans
-1. Maarten Dirkse
-1. Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
-1. Maddison Hellstrom
-1. Madhulika Chambers (NumPy contributor)
-1. Madison `makyo` Scott-Clary
-1. Mads Johansen
-1. Mae Dartmann
-1. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
-1. Magnus Krüger
-1. Mairi Dulaney (Fedora Project contributor)
-1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
-1. Malleck Braun
-1. Malte `m4schini` Schink
-1. Malvika Sharan (The Alan Turing Institute; Community Manager of The Turing Way project and Co-founder of Open Life Science)
-1. Mandy Henk
-1. Mano Marks
-1. Manuel Genovés (GNOME)
-1. Manuel González
-1. Manuel Spitschan (University of Oxford)
-1. Manuel Uberti
-1. Marc-Antoine `Keruspe` Perennou (Exherbo)
-1. Marcantonio Rendino
-1. Marcel Kapfer
-1. Marcel Kuehlhorn (openSUSE contributor)
-1. Marcelo Teider Lopes
-1. Marcel Timmer
-1. Marcin Konowalczyk (they/them, University of Oxford)
-1. Marco 'eukara' Hladik
-1. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
-1. Marcos Sebastiao
-1. Marcus Müller (Former GNU Radio Maintainer, GNU Radio General Assembly member)
-1. Marcus Weiner
-1. Marek Kubica
-1. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
-1. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
-1. Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
-1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
-1. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
-1. Mario Rodríguez Carrasco
-1. Mario Sánchez Prada (Igalia, GNOME)
-1. Mario Torre
-1. Marius Gedminas
-1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
-1. Marius Quabeck (NerdZoom Media)
-1. Mark Baggett
-1. Mark Brown (Linux, Debian)
-1. Mark Filion (Collabora)
-1. Mark Musante
-1. Markos Fragkakis
-1. Mark Paluch
-1. Mark Tomko
-1. Markus Bohnensack
-1. Markus `kmi` S. (Chaos Computer Club)
-1. Markus Unterwaditzer
-1. Marquis Kurt
-1. Marta Rybczynska
-1. Marte Træen
-1. Martijn Bos(Galavanto)
-1. Martina Ferrari (Debian developer)
-1. Martin Bayo
-1. Martin Gollowitzer
-1. Martin Guillon
-1. Martin Kühl
-1. Martin Michlmayr (Former Debian Project Leader)
-1. Martin Robinson (Igalia)
-1. Martin Splitt
-1. Martin Wimpress (Former FSF member)
-1. Martyn Welch (Collabora)
-1. Mason Jones
-1. Matheus Fantinel
-1. Mathieu Comandon (Lutris)
-1. Matt
-1. Matt Barron
-1. Matt Beland
-1. Matteo Bigoi
-1. Matteo Tammaccaro
-1. Matthew (0tcQd) Sams
-1. Matthew Adams
-1. Matthew Ahrens (OpenZFS)
-1. Matthew Cowie
-1. Matthew Fernandez
-1. Matthew Helmke (open source author)
-1. Matthew `mattcen` Cengia
-1. Matthew P. Del Buono
-1. Matthew Peveler
-1. Matthew Pounsett
-1. Matthew R. Green (NetBSD core, bozohttpd, ircII)
-1. Matthew Robertson
-1. Matthew Seal
-1. Matthew Stedman
-1. Matthew Stone
-1. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
-1. Matthew Venn
-1. Matthew Vernon (Debian developer)
-1. Matthew Westcott (`gasman`, Wagtail CMS maintainer)
-1. Matthew Wilcox (Linux kernel hacker)
-1. Matthias Antierens
-1. Matthias Arnason
-1. Matthias Bussonnier (Project Jupyter co-founder)
-1. Matthias Klumpp (Debian, freedesktop.org)
-1. Matthias Schiffer (OpenWrt committer)
-1. Matthias `smurf` Urlichs (Debian developer)
-1. Matthieu Gallien (KDE)
-1. Matthilde A. Stella
-1. Mattias Bengtsson (Former GNOME Maps maintainer)
-1. Mattias Wadenstein (Debian developer and ACC sysadmin)
-1. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
-1. Matt Ray (former FSF member)
-1. Matt Travi
-1. Mauro Lizaur (Former Debian Developer)
-1. Max Bruckner (`FSMaxB`)
-1. Max Burke
-1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
-1. Maximiliano Ferrer G. (@PandaFoss)
-1. Maxine Aubrey (NixOS contributor)
-1. Max Perrello
-1. Maya L.
-1. Maya Rashish (NetBSD)
-1. Meadhbh Hamrick
-1. Megan Marsh
-1. Meghan Denny (`nektro`)
-1. Mehdi Dogguy (Former Debian Project Leader)
-1. Melanie Kat
-1. Melissa Boiko
-1. Melissa Di Donato (CEO, SUSE)
-1. Melissa Draper
-1. Mélissa Richard
-1. Melissa Weber Mendonça
-1. Melody ✨
-1. Merlijn Sebrechts (`galgalesh`)
-1. Mica Eliza Geßner
-1. Micah Anderson
-1. Micah E Scott
-1. Micah Lee
-1. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
-1. Michael Bikovitsky
-1. Michael B. Klein
-1. Michael Bond (FSF Associate Member)
-1. Michael Carbone (Qubes OS)
-1. Michael Dexter
-1. Michael Downey (United Nations Foundation)
-1. Michael Gat
-1. Michael Hoffmann
-1. Michael Juarez
-1. Michael Käufl
-1. Michael Kees
-1. Michael Kohler (Mozilla volunteer)
-1. Michael Laird
-1. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
-1. Michael Lingelbach (Neovim, NixOS contributor)
-1. Michael Mattsson (@datamattsson)
-1. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
-1. Michael Ossmann
-1. Michael `ovyerus` Mitchell
-1. Michael Perron
-1. Michael Pyne (KDE, game-music-emu)
-1. Michael Reiger
-1. Michael Schechter
-1. Michael Scherer
-1. Michael Staggs (tausciam)
-1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
-1. Michal Siedlaczek
-1. Michel Alexandre Salim (Fedora Project contributor)
-1. Mic Whitehorn-Gillam
-1. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)
-1. Mikalai Birukou (3NSoft)
-1. Mika Pflüger
-1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
-1. Mike Elsmore (@ukmadlz everywhere)
-1. Mike Harris
-1. Mike Hawk
-1. Mike Hoye (mhoye, Mozilla)
-1. Mike Linksvayer
-1. Mikel Johnson
-1. Mike Olson (Postgres, Berkeley DB, Cloudera)
-1. Mike Patterson
-1. Mike Wyatt
-1. Mikhail Popov (Wikimedia Foundation)
-1. Milan Pässler (Chaos Computer Club, NixOS contributor)
-1. Milo Casagrande
-1. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
-1. Minho Ryang (@minhoryang on Github)
-1. Mirko Boehm (KDE)
-1. Mithun Hunsur
-1. M. Oliver Ghingold
-1. Molly White (@molly on GitHub)
-1. Monica Ayhens-Madon
-1. Morgan-Christopher Brooks
-1. Morgan Fletcher
-1. Morgan `indrora` Gangwere
-1. Morgan Lemmer-Webber
-1. Morgan MacKechnie
-1. Morgan Thomas
-1. Moritz Bunkus (MKVToolNix)
-1. Moritz Schmidt
-1. Morris Jobke (Nextcloud)
-1. Morten Linderud (Arch Linux maintainer)
-1. M. Scott Ford (CEO, Corgibytes)
-1. Much0m0rek
-1. Mx Craven
-1. Myriam Rita Schweingruber
-1. Myrle Krantz (ASF member)
-1. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
-1. Naglis Lesčinskas
-1. Nalin Dahyabhai
-1. Naomi Ceder (former director & past chair, Python Software Foundation)
-1. Natacha Rault (les sans pagEs)
-1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
-1. Natalie Amery (née Jonathan)
-1. Natan B. C. "`natanbc`"
-1. Nat Budin
-1. Nate Hill (Director, Metropolitan New York Library Council)
-1. Nathan Dyer (former FSF associate member)
-1. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
-1. Nathanial (`d0nut`) Lattimer
-1. Nathaniel J. Smith
-1. Nathan Moos (@moosingin3space, drive-by Rust, NixOS, and Firefox contributor)
-1. Nathan Ritchie
-1. Nathan Shelly
-1. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
-1. Neel Chauhan (FreeBSD Ports Committer, Tor Core Contributor)
-1. Neil Watson (Former CFEngine Community Advisory Board Member)
-1. Nelson Minar
-1. Nic FitzGerald (Co-Founder Sailex)
-1. Nicholas LaPointe (Krita contributor)
-1. Nicholas Paladino
-1. Nick Badal
-1. Nick Chambers
-1. Nick Davis
-1. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
-1. Nick Guenther
-1. Nick Mathewson (Co-founder, Tor Project)
-1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
-1. Nick Pettazzoni
-1. Nick Richards
-1. Nick Ruest
-1. Nick Sieger
-1. Nick Wanninger (@nickwanninger)
-1. Niclas Zeising (FreeBSD committer)
-1. Nicolai von Neudeck
-1. Nicolás Alvarez (KDE)
-1. Nicolas Dandrimont (Debian Developer, former FSF associate member)
-1. Nicolas Fella (KDE)
-1. Nicolas Fleurot
-1. Nicolás Javier Salazar Echeverry
-1. Nicolas Machado
-1. Nicolás `nomeacuerdo` Arteaga
-1. Nicolas Schier (Debian maintainer)
-1. Nicole Faerber
-1. Nicole Martinez
-1. nicoo (Debian Developer, NixOS and Rust contributor)
-1. Niels Grewe (GNUstep contributor)
-1. Niels G. W. Serup
-1. Niels Thykier (Debian Developer)
-1. Nikhita Raghunath (Kubernetes Steering Committee Member)
-1. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
-1. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
-1. Nik Kantar
-1. Nikolai Vazquez
-1. Nikolaus Einhauser (Mixxx developer)
-1. Nikos Roussos (FSFE, GA member)
-1. Nils Adermann
-1. Nils Philippsen (Fedora Project contributor)
-1. Nils Ratusznik (LinuxFr.org team member, NetBSD/pkgsrc developer)
-1. Nina Eleanor Alter
-1. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
-1. Nisha Kumar
-1. Nishkarsh Raj
-1. Nixon Enraght-Moony
-1. Noah/`coolreader18` (RustPython maintainer)
-1. Noah Hall
-1. Noel Cower
-1. Noel Georgi
-1. noirscape
-1. Nora Moldestad
-1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
-1. Nordine Bittich
-1. Nyx DeMarco (@ZephyraSilentis)
-1. Odhiambo Dormnic (@ayimdomnic)
-1. Ole Bang Ottosen (Former Core Team member Production/Community Joomla!/OpenSourceMatters)
-1. Ole Streicher (Debian Developer)
-1. Oliver Drotbohm
-1. Oliver Falk (Libravatar project)
-1. Oliver Ni
-1. Oliver Propst (GNOME)
-1. Olivier Berger (FSF member, or associate member since 2002)
-1. Olivier Crête (Collabora, GStreamer)
-1. Olivier Duquesne (DaffyDuke, French LUG volonteer)
-1. Ollivier Robert (FreeBSD committer, long-time free software dev.)
-1. Omar Akkila (Collabora)
-1. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
-1. Orhun Parmaksız (Arch Linux maintainer)
-1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
-1. Otavio Carneiro (2carneiros.tv)
-1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
-1. Owen Anderson
-1. Owen Kirby
-1. Owen O'Malley (Apache Hadoop, Hive, and ORC)
-1. Owen Sullivan
-1. Owen Williams (Mixxx Developer)
-1. Øystein Øverng
-1. Pablo Costas Sánchez
-1. Pablo Martín Oldani
-1. Pablo Rauzy (former FSF associate member)
-1. Pamela S. Chestek (Open Source Initiative Director)
-1. Panagiotis Vasilopoulos
-1. parabirb
-1. Parker Higgins
-1. Park Seonu
-1. Partha Sarathy Thanka Raj
-1. Pascal Jufer
-1. Pascal Klaßen (@klassenpascal22)
-1. Pat Allan
-1. Pat Hickey
-1. Patrick Brunier (Former GNU webmaster, Owner of Brunjee - Liberating Technology)
-1. Patrick Engelman
-1. Patrick Geahan
-1. Patrick Lam
-1. Patrick Meyer (`HerrSpace`)
-1. Patrick Pouw
-1. Patrick Robinson
-1. Patrick Wu (Ubuntu developer)
-1. Patric Mueller (NetHack DevTeam member)
-1. Patryk Nogaś (@PatrykNog)
-1. Paul Adams
-1. Paula de la Hoz Garrido (Interferencias association president and cofounder)
-1. Paul Aguilar (`penserbjorne` from LIDSOL)
-1. Paul Burdick
-1. Paul Cutler (former GNOME Foundation)
-1. Paul Fisher (Former FSF employee and union representative)
-1. Paulino Michelazzo (Founder Brazilian Drupal Association, PT-BR Drupal revisor, Pinguino de Honor)
-1. Paul McLanahan (Engineer at Mozilla)
-1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
-1. Paulo Henrique de Lima Santana (Debian Developer)
-1. Paul Oldham
-1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
-1. Paul Visscher (former GNU chief webmaster)
-1. Paul Wankadia
-1. Paul Woolcock
-1. Paul Wouters (Libreswan, Fedora developer)
-1. Paweł Krupa
-1. Peder Bergebakken Sundt
-1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
-1. Pedro Cunha
-1. Pedro Juan Ferrer Matoses
-1. Pedro Valentim
-1. Percival Lavoie
-1. Perro Tuerto (Programando LIBREros)
-1. Peter Aufner (`Adrixan`)
-1. Peter Benjamin (`pbnj`)
-1. Peter C. Jentsch
-1. Peter Eisner
-1. Peter Hazenberg (`Peetz0r`)
-1. Peter Huene
-1. Peter Hunt
-1. Peter Hutterer
-1. Peter Jones (Fedora developer)
-1. Peter K. G. Williams (`@pkgw`)
-1. Peter Ludikovsky
-1. Peter Robinson (Fedora developer, former Fedora Board and Council member)
-1. Peter Sharpe (@peterdsharpe)
-1. Peter Squicciarini (`@stripedpajamas`; Flossbank, VSCodium)
-1. Peter Stein
-1. Peter Van Eynde
-1. Petrohs
-1. Phil Dibowitz
-1. Philip Balister
-1. Philip Chimento (`ptomato`; Igalia, GNOME Foundation director)
-1. Philip Dolbel
-1. Philip Gillißen
-1. Philip Hands (Former Debian Technical Committee member)
-1. Philip Lindsay
-1. Philippe Kalaf (Collabora)
-1. Philippe Normand
-1. Philip Withnall
-1. Philip Young
-1. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
-1. Pierre-Antoine "Leny" Delnatte
-1. Pierre Dupont
-1. Pierre Marijon
-1. Pierre Ozoux (@pierreozoux)
-1. Pierre-Yves (Solus)
-1. Pierros Papadeas (Board member, Libre Space Foundation)
-1. Pieter De Praetere
-1. Pietro Gagliardi (`andlabs`; currently at Google)
-1. Piotr Drąg (GNOME, Mozilla and Fedora contributor)
-1. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
-1. Pj Sheffield.
-1. Pranav Teegavarapu
-1. Priit Laes (`@plaes`)
-1. Rachel Chalmers (boardmember, The Ada Initiative)
-1. Rachel Domagalski
-1. Rachel Kadel
-1. Rachel Lawson (One of Drupal's many maintainers)
-1. Rafael Bautista
-1. Rafael Silva
-1. Rafael Tovar
-1. Raffaele Messuti
-1. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
-1. raichoo (maintainer and contributor for various open source projects)
-1. Rainer Bendig
-1. Ralph FriarTech Loizzo
-1. Ralph Giles
-1. Rami Chowdhury
-1. Randall Carver
-1. Randall Munroe (xkcd)
-1. Randolph West
-1. Randy J. Ray (@rjray)
-1. rany
-1. Rayan Das (@raydeeam)
-1. Raymon Skjørten Hansen
-1. Red Huang (@gcaaa31928)
-1. Reed Loden
-1. Reese Rivers (@Fussmatte)
-1. Reese "xsychoreese" Todd
-1. Rémi Lauzier
-1. Rémi Verschelde (Godot Engine, Mageia)
-1. Rémy Grünblatt
-1. Renata Rocha
-1. Renaud Lepage
-1. Reuben Morais
-1. Reynir Björnsson
-1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
-1. Rhys Davies
-1. Rhys Powell
-1. Ricardo Bánffy
-1. Ricardo Berlim Fonseca (Brasília, Brazil)
-1. Ricardo Salveti
-1. Richard Brown (Former openSUSE Chairman)
-1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
-1. Richard J. Barbalace (CEO, Ailectric)
-1. Richard Kettlewell
-1. Richard Littauer
-1. Richard Lowe
-1. Richard Maw
-1. Richard Mehlinger
-1. Richard Pospesel (pospeselr, Tor Project)
-1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
-1. Richard Schneeman
-1. Rich Felker (musl libc)
-1. Richo Healey
-1. Rich Sands
-1. Rick Scott
-1. Ricky White
-1. Ridley Combs (rcombs)
-1. Rigin Oommen
-1. Riley V. (@hopolapola)
-1. Rima Sghaier (GlobaLeaks Outreach Director)
-1. Rin K. (ry00001)
-1. Roan Kattouw
-1. Robbie Harwood (Fedora developer)
-1. Robert Barat
-1. Robert Berg
-1. Robert C Jennings (Ubuntu member, kernel dev)
-1. Robert Foss (Linux kernel dev)
-1. Robert Fridzema
-1. Robert Jacobi (Former President Joomla!/OpenSourceMatters)
-1. Robert J. Hansen (formerly of GnuPG)
-1. Robert Joslyn
-1. Robert L Davidson (data scientist, open data activist, co-founder of Scientists for EU)
-1. Robert Lipe (GPSBabel creator, contributor to open source since 87)
-1. Robert McQueen (President of the GNOME Foundation)
-1. Robert Menes (Hack Workshop Coordinator, New York Linux Users Group (NYLUG))
-1. Robert Newson (Apache CouchDB PMC, ASF Member)
-1. Robert Vollmert
-1. Robey Pointer (paramiko, eggdrop)
-1. Robin Bowes
-1. Robin Michael
-1. Robin Ward (Discourse Co-Founder)
-1. Robin Widegren
-1. Rob Knight (CTO, Enterprise Cloud Products @ SUSE)
-1. Rob Smith (SeaGL Co-Founder)
-1. Rob Vincent
-1. Rob White
-1. Robyn Speer (ConceptNet)
-1. Roger Light
-1. Roger Robertson (strangrjrjr)
-1. Roger Zanoni (Igalia)
-1. Rojen Zaman
-1. Romain Menke
-1. Romina Suarez (@rowasc)
-1. Rosanna Yuen (GNOME Foundation)
-1. Rose Davidson
-1. Rosellyne Worrall
-1. Ross A. Baker
-1. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
-1. Ross Lannen
-1. Ross MacArthur (@rossmacarthur)
-1. Ross Nelson
-1. RT Hatfield (@panzertime)
-1. Ruben Pollan (meskio)
-1. Ruben Schade
-1. Rubi Jihantoro
-1. Russ Allbery (Debian Developer, FSF associate member since 2003)
-1. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
-1. Rute Correia
-1. Ryan A. Pavlik (Collabora, Monado Co-Founder, OpenXR Spec Editor)
-1. Ryan Castellucci (@ryancdotorg, former LUGOD officer)
-1. Ryan C. Cooper (@cooperrc)
-1. Ryan Clark
-1. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
-1. Ryan Finnie (Finnix founder; Debian; Ubuntu)
-1. Ryan Gannon
-1. Ryan Gonzalez
-1. Ryan Heywood
-1. Ryan Hoagland (sothis6881)
-1. Ryan Lahfa
-1. Ryan McNeely
-1. Ryan Petrello (Ansible AWX Maintainer, Red Hat)
-1. Ryan P. Joseph
-1. Ryan Prior (LibrePlanet speaker, GNU Guix, FSF member)
-1. Ryan Salsamendi
-1. Ryan Schmidt
-1. Ryu "SaidBySolo" JuHeon
-1. Sadie Powell (InspIRCd)
-1. Sai Vamshi (Business Analyst)
-1. Sajid Ali
-1. Sally Jo Cunningham (Waikato University)
-1. Sam Bailey
-1. Sambhav Saggi
-1. Sam Buccieri-Gillett
-1. Sam Hartman (Former Debian Project Leader)
-1. Sam Hocevar (Former Debian Project Leader)
-1. Sam Kottler
-1. Sam Muirhead
-1. Sammy Fung (GNOME, Mozilla, Open Source Hong Kong, PyCon HK)
-1. Sam Osano
-1. Sam Pavlovic
-1. Sam Phillips
-1. Sam Pichardo
-1. Sam Pikesley
-1. Sam Pritchard
-1. Sam Shrum
-1. Sam Sidler (10up, WordPress, former Mozilla)
-1. Sam Tobin-Hochstadt
-1. Samuel Scheiderich
-1. Sam van der Kris
-1. Sander Steffann (@sjmsteffann / sjms)
-1. Sander van der Waal (Waag)
-1. Sandra McCann (samccann)
-1. Sandro Jäckel (NixOS contributor)
-1. Sandro Knauß (Debian, KDE)
-1. Santeri Kasvi
-1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
-1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
-1. Santosh Mahto (Collabora)
-1. Saptak S
-1. Sarah Aladetan
-1. Sarah Connor
-1. Sarah Vitak
-1. Sarah Voegeli
-1. Sara Stephens (SUSE)
-1. Sarina Canelake
-1. Sarven Capadisli
-1. Sasha Cuerda
-1. Sasha Weiss
-1. Sasi Olin (openSUSE Member, former openSUSE Board member)
-1. Satvik Sharma
-1. Savin Goyal
-1. Sayan Chowdhury (@yudocaa)
-1. Scott Hain
-1. Scott Leggett (Debian Maintainer)
-1. Scott Martin
-1. Scott Randby
-1. Scott Starr
-1. Scott Sweeny
-1. Scott Walters
-1. Sean Davis (Xfce, Xubuntu)
-1. Sean Eric Fagan
-1. Sean Howard
-1. Sean Knox
-1. Sean McGinnis
-1. Sean O'Brien
-1. seb1g
-1. Sebastian Dröge (GStreamer, GNOME, Debian)
-1. Sebastian Kügler (KDE)
-1. Sebastian Ramacher (Debian Developer)
-1. Sebastian Stauch (@sebidude)
-1. Sébastien Villemot (Debian Developer, FSF associate member)
-1. Seebs
-1. Selam Gano
-1. SeongHyun Lee (Kevin Lee / 케빈 리)
-1. Seraphim R.P. (Kerygma Digital)
-1. Seth Aldini
-1. Seth Hillbrand
-1. Seth Marinello (former CPLUG Officer)
-1. Seth McCombs
-1. Seth Peasley
-1. Seunguk Lee
-1. Shadi Alostaz
-1. Shane Coughlan
-1. Shane Curcuru (Punderthings Consulting)
-1. Shane Fagan
-1. Shane Snover
-1. Shannon Dosemagen
-1. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
-1. Shaun Mouton
-1. Shaun Murphy
-1. Shaurya (`coolshaurya`)
-1. Shawon Ashraf
-1. Shelly Coen
-1. Sherif Mansour (OWASP Community)
-1. Sherman Mui
-1. Shiz (former Alpine Linux developer)
-1. Shmueli Yosef Englard (@Shmuelie)
-1. Siddhesh Poyarekar (glibc contributor, FSF associate member)
-1. Signed Kiran Graefenstedt
-1. Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
-1. Silje Christiansen
-1. Simeon "n0emis" Keske
-1. Simeon Smith
-1. Simon Bowie
-1. Simon Cozens
-1. Simonetta Batteiger
-1. Simon McVittie (Collabora, Debian Technical Committee member)
-1. Simon Menke (`fd`)
-1. Simon Phipps (Former OSI President)
-1. Simon Richter
-1. Simon Wistow
-1. Sjoerd Simons (Collabora, Debian Developer)
-1. Skaira Eris
-1. Skylar Alexandra Bleed
-1. Skylar "`radioSight`" M.
-1. Solène Garda-Krebs
-1. Solly Ross (Kubernetes KubeBuilder maintainer)
-1. SomeHacker
-1. Song Li
-1. Sophie Herold (GNOME Foundation member)
-1. Soren L. Hansen
-1. Spencer Hunley
-1. Srayan Jana
-1. Sriram Ramkrishna (Former GNOME board member)
-1. Sruthi Chandran (Debian Developer)
-1. Starchy Grant (EFF, signing in personal capacity)
-1. Stefan Bethke
-1. Stefan Crain
-1. Stefanie Schirmer
-1. Stefan Kramer
-1. Stefan T. Peters
-1. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
-1. Stelios Milidonis (Collabora)
-1. Stemy (amateur independant self-host)
-1. Stephan Barth (Technical Project Manager for Maintenance, SUSE)
-1. Stephane Graber (LXC, former Ubuntu Technical Board member)
-1. Stephanie Gruss (@sagruss)
-1. Stephanie Whited
-1. Stephan Lachnit (Debian Maintainer)
-1. Stephen A. Goss
-1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
-1. Stephen Hemminger (Iproute2 Maintainer)
-1. Stephen Jacobs
-1. Stephen O'Grady
-1. Step Schwarz
-1. Steve Axthelm
-1. Steve Desmond
-1. Steve Gilissen
-1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
-1. Steve McIntyre (Former Debian Project Leader)
-1. Steven Beattie
-1. Steven Dake (Former: elected OpenStack BOD member, Heat PTL, former Kolla PTL, Corosync lead)
-1. Steven DuBois (former FSF intern)
-1. Steve Pletcher
-1. Steve Pomeroy
-1. Steve Widinghoff
-1. Stew O'Connor (former Debian debeloper, former freenode staff)
-1. Stig Sandbeck Mathisen (Debian Developer)
-1. Stuart Auld
-1. Stuart A Yeates (former OSS Watch staffer)
-1. Stuart Harrison
-1. Stuart Langridge
-1. Stuart Spence
-1. Subhashish P. (open culture advocate)
-1. Sune Stolborg Vuorela, (Debian, KDE)
-1. Sven `DrMcCoy` Hesse
-1. Sven Hüster
-1. Sy Brand (Microsoft)
-1. Sydney Schreckengost
-1. Syds Bearda (openSUSE member + treasurer)
-1. Sylvestre Ledru (Debian, LLVM and Mozilla)
-1. Taavi Väänänen (MediaWiki)
-1. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
-1. Taher Chegini (@cheginit)
-1. Tamás Szelei
-1. Tamreen Khan
-1. tanmatsu
-1. Tanner Filip
-1. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
-1. Tanya Lattner (LLVM Foundation)
-1. Taowa (Debian Developer, former LP keynote panelist)
-1. Tasos Latsas
-1. tastytea
-1. Teo Schulze
-1. Thaddée Tyl
-1. TheEssem
-1. TheEvilSkeleton
-1. Théodore Biadala
-1. Theodor Tollersrud
-1. Theo Schlossnagle
-1. TheSpiritingPoet
-1. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
-1. Thibault Walterspieler (Fullstack developer at Blacksmith)
-1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
-1. Thijs van der Vossen (Fingertips)
-1. Thomas Belvin
-1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
-1. Thomas Di Giacomo (CTO, SUSE)
-1. Thomas Guillem (VLC developer)
-1. Thomas Jepp
-1. Thomas Jost
-1. Thomas Kluyver (various Python projects)
-1. Thomas Maszerowski
-1. Thomas Pintaric
-1. Thomas Renger
-1. Thomas Rodgers (libstdc++ contributor)
-1. Thomas Sirack
-1. Thomas Wouters (former GNU contributor)
-1. Thom Chiovoloni
-1. Thorsten Behrens (director, The Document Foundation)
-1. Thorsten Leemhuis (Fedora and Linux kernel contributor)
-1. Tiago Carrondo
-1. Tiago Vinicius de Andrade Almeida
-1. Tianon Gravi
-1. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
-1. Till Schneidereit
-1. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
-1. Tim Bradshaw
-1. Tim Casasola
-1. Tim D. Smith (Mozilla; former member, Homebrew PLC)
-1. Tim Eisenmann
-1. Timothée Ravier (Fedora Project Contributor)
-1. Timothy C. Quinn
-1. Tim Pierce (former GNU Guile contributor)
-1. Tim Weber (`scy`)
-1. Tiphaine Viard (Associate professor, Telecom Paris)
-1. t. Macleod Sawyer (Founder & CEO of DNX Robotics, `@macleodsawyerms` && `@drannex42`)
-1. Tobia Alberti (creator of Precisely Private)
-1. Tobias Fella (KDE)
-1. Tobias Klausmann
-1. Tobias 'knilch' Jordan
-1. Tobias Rueetschi
-1. Todd Bush
-1. Todd C. Miller (sudo maintainer, OpenBSD developer)
-1. Tod Robbins
-1. Tollef Fog Heen (Former Debian Technical Committee member)
-1. Tom Brantseg
-1. Tomeu Vizoso (Collabora, Mesa)
-1. Tom Fish (`Guerillero`)
-1. Tom Henderson (Founder, ExtremeLabs)
-1. Tom Howard
-1. Tom Lakey
-1. TomoeMami
-1. Tom Prince
-1. Tom Sorensen (Zathrus on freenode irc)
-1. Tom "spot" Callaway (Fedora Council member, former LP speaker)
-1. Tony Colston
-1. Tony Richards
-1. Tor Lillqvist (Collabora)
-1. Tracie Fabb (Collabora)
-1. Tracy Hinds (Open Source Initiative Director)
-1. Travis Brown
-1. Travis Hardiman
-1. tre murillo
-1. Trevor Bell
-1. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
-1. Trevor Manz
-1. Trevor McNaughton
-1. Trevor Thalacker
-1. Trinity Pointard
-1. Tristan D. Bohnen
-1. Tristan Rain Hamer
-1. Trolli Schmittlauch
-1. Tsuki "sech1p" Semeniuk
-1. Tuna Ilgaz
-1. Tux Pacific (NuCypher)
-1. Tyler Childs (D13 Labs)
-1. Tyrel Souza
-1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Ulrike Uhlig (Debian Developer)
-1. Ursula Junque (Ubuntu member)
-1. Utku Boduroglu
-1. Vadim Rutkovsky
-1. Valerie Aurora
-1. Vanessa Oxley
-1. Vangelis Katsikaros
-1. Veeti Veteläinen (`Uumas`)
-1. Veronica Cary
-1. Vicky Rampin
-1. Victor Hugo Soliz Kuncar
-1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
-1. Victor Westerhuis
-1. Viktoriia Leontieva (Product Designer at GitHub)
-1. Vince Asta
-1. Vincent Broz (`@apiology`)
-1. Vincent Esche
-1. Vincent Huang Jiahao
-1. Vincent Milum Jr (@DarkainMX)
-1. Vincent Singer (aka cukmekerb)
-1. Vincent Wong
-1. Vincenzo Palazzo (@vincenzopalazzo)
-1. Vinicius Mignot (`@locao`)
-1. Vipul Gupta
-1. Vipul Siddharth (Fedora Project Contributor)
-1. Virgile Ferroukh
-1. Vitor "Krammer" Cardoso
-1. Vittorio Roberto Alfieri (`@rebtoor`, FSFE supporter, EFF member)
-1. Vivek Das Mohapatra (Collabora)
-1. Vivia Nikolaidou (GStreamer)
-1. Vivian Lim (Microsoft)
-1. Vladimir Cortés
-1. Vojtěch Vengrin (GNOME Translator)
-1. void witch
-1. Volkan Yazıcı (Apache Logging Services PMC)
-1. Vyivel
-1. Ward Vandewege (Former FSF staff and FSF member)
-1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
-1. Weilbyte
-1. Wendy Bolm (Chief Operations Officer, CommitChange)
-1. Wendy Seltzer
-1. Werner Mahr
-1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
-1. Weston Steimel
-1. Wez Furlong
-1. Wheeler Law (Red Hat Inc.)
-1. whitequark
-1. Will Barton
-1. Will Greenberg (EFF, signing in personal capacity)
-1. Will Hawkins
-1. Will Hunt (`Half-Shot`)
-1. William Brown (389 Directory Server, SUSE Labs)
-1. William Denton
-1. William D. Jones (`cr1901`)
-1. William Gathoye (Collabora)
-1. William Kroes
-1. William Light (@wrl)
-1. William Orr (@worr)
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
-1. William Wilson (Ubuntu Developer)
-1. Williham Williham Totland
-1. Will Lachance (Mozilla)
-1. Will Thompson
-1. Wilson "Chilly" Hightower
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Woohyeong Kim
-1. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
-1. Wren Turkal (wt on GitHub; @w00tSoeaks)
-1. Wulf C. Krueger (Exherbo Linux)
-1. Xabier Rodríguez Calvar (Igalia)
-1. Xavier Claessens (Collabora)
-1. Xavier Tilley
-1. Xavi Francisco
-1. Xav Paice
-1. Yadav Lamichhane
-1. Yalın Pala
-1. Yangwook Jeong (@Yangeok)
-1. Yannick Sabau
-1. Yann Ramin
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yeaji Shin (@Bloodevil)
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youko Omori (Collabora)
-1. Youngbin Han (Ubuntu Korea Community)
-1. Young Hun Kim
-1. Youness Alaoui (@kakaroto)
-1. Yo Yehudi (Co-founder of Open Life Science)
-1. Yuval Adam
-1. Yuvi Panda (Project Jupyter)
-1. Yu-Wei Wu
-1. Yvan Sraka
-1. Yvonne Lam
-1. Z
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zachinquarantine
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zack Urlocker
-1. Zak Rogoff (former FSF staff)
-1. Zander Brown (GNOME and more)
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+1. Kay Marquardt (@gnadelwartz, kay@rrr.de)
+4. Kaleb Alves
+5. Kali Escher
+6. Kamila Szewczyk (`@kspalaiologos`)
+7. Kara "apaleslimghost" Brightwell
+8. Kararou Ren
+9. Karen Bruner
+10. Karen Rustad Tölva (former OpenHatch and Students for Free Culture board member)
+11. Karol Herbst (Nouveau, X.org, Red Hat)
+12. Karsten Gerloff (former president, Free Software Foundation Europe, 2009-2015)
+13. Karsten Wade (CentOS Board member, former Fedora Board & Docs Lead, the Open Source Way)
+14. Karthik Kumar Viswanathan
+15. Kate Travers
+16. Katharine Berry
+17. Katherine Flavel
+18. Kathleen Burkhardt
+19. Kathleen Lu
+20. Kathryn Spiers
+21. Katie Chan
+22. Katie Gamanji
+23. Katie McLaughlin (Python Software Foundation, former Linux Australia council)
+24. Katrina Riehl (NumFOCUS Board Member)
+25. Kavi Laud
+26. Kayla Anne Cupples
+27. Kees Cook (Linux kernel maintainer & Technical Advisory Board member, Debian Developer, Ubuntu core developer, former Ubuntu Technical Board member)
+28. Keith Gable (The Museum of Art and Digital Entertainment; contributor: DreamPi, Ruby on Rails, Ember.js; core author of ignitionServer, now defunct)
+29. Kellegram
+30. Kelly Hopkins (former FSF staffer)
+31. Kemal Akkoyun
+32. Kendra Albert
+33. Ken Guest (PEAR, Phing)
+34. Ken Irwin
+35. Kenneth Gardner
+36. Kenneth Love (PSF Fellow)
+37. Kenny Huynh
+38. Kevin Ackroyd
+39. Kevin Bloch
+40. Kevin Carson (researcher on postcapitalist transition)
+41. Kevin Gimbel
+42. Kevin Johnson
+43. Kevin Jullien (`@jukefr`)
+44. Kevin Lannen
+45. Kevin López B.
+46. Kevin McKenzie, M.S (Co-Owner, Built-Right Digital)
+47. Kevin Messer
+48. Kevin O'Brien
+49. Kevin P. Fleming
+50. Kevin Sonney
+51. Kev Quirk
+52. Khionu Sybiern
+53. Khosrow Moossavi
+54. Kieran D
+55. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
+56. Kiran Jonnalagadda
+57. Kirill Sokolov (@novathefaded)
+58. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
+59. Kitteh
+60. Kojo Idrissa (Djangocon US organizer, DEFNA North American Ambassador)
+61. Konstantina Papadea
+62. Kosta Harlan
+63. Kot Cat (@kotx)
+64. Koz Ross (former FSF associate student member)
+65. Konrad Geletey (@kogeletey)
+66. kpcyrd (Arch Linux, Debian, Reproducible Builds)
+67. Kris Buytaert
+68. Kristi Progri
+69. Krzysztof Sakrejda
+70. Kuesji Koesnu
+71. Kukuh Syafaat (GNOME, openSUSE)
+72. Kumar Anirudha
+73. Kunal Mehta (MediaWiki, Debian Developer, FSF associate member)
+74. Kurt Garloff (Sovereign Cloud Stack, Open Infrastructure Foundation BoD)
+75. Kushal Das (Tor Project core team, Python Core developer, Fedora Project contributor)
+76. Kyle Kneitinger
+77. Kyle Mitchell
+78. Kyle Riedemann
+79. Kyle Robbertze (Debian Developer)
+80. Lachlan Campbell
+81. Lætitia Avrot (PostgreSQL contributor, Postgres Women co-founder)
+82. Lander Van den Bulcke
+83. Langlais Raphael
+84. Lars Liedtke
+85. Lars Wirzenius
+86. Laura Arjona Reina
+87. Laura Hausmann
+88. Laura Lytle
+89. Laura Smith
+90. Laurence Berland
+91. Lauren Liberda (@selfisekai)
+92. Laurent Doguin
+93. Laurent Peuch
+94. Laurin Schmidt
+95. Laurynas `NeLaurynas` K.
+96. Leah Lundqvist (leahlundqvist, V maintainer)
+97. Leandro A. F. Pereira
+98. Lee Hambley (Capistrano maintainer, former FSFE member)
+99. Lee-Roy King
+100. Leif Walsh
+101. Leigh Scott (leigh123linux, Fedora)
+102. leo60228
+103. Leo Famulari
+104. Leon N.
+105. Leo Wagner
+106. Liam Dawe (GamingOnLinux.com)
+107. Liam R. Howlett (kernel developer)
+108. Liera Zaitseva
+109. Lili McCoy
+110. Lilly Winfree (Open Knowledge Foundation)
+111. Lily Ballard
+112. Lily Foster (@lilyinstarlight)
+113. Lina B (elatelation)
+114. Linda Fernández
+115. Lindsay Holmwood (former Vice President of Linux Australia)
+116. Link Dupont (GNOME Foundation)
+117. Linus A. Wozniak (@MadsRach)
+118. Linus Groh
+119. Linus Parker
+120. Lioncache
+121. Lionel Debroux
+122. Lionirdeadman
+123. Lisa Seelye
+124. Liza Ainalen Dosso
+125. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
+126. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
+127. Lleyton Gray (CEO, Innatical)
+128. Logan Kilpatrick (The Julia Language Community Manager)
+129. Lorena Mesa
+130. Lorenzo Gomez
+131. Louis Borsu
+132. Louis-Francis Ratté-Boulianne (Collabora)
+133. Louis Jones
+134. Louis-Philippe Véronneau (Debian Developer)
+135. Louis Suárez-Potts
+136. Luana Neder
+137. Luca Andrea Fusè
+138. Luca Martinelli
+139. Lucas Biaggi (KDE contributor)
+140. Lucas Bickel
+141. Lucas Holt
+142. Lucas Ives (@lri)
+143. Lucas Nussbaum (Former Debian Project Leader)
+144. Lucas Werkmeister
+145. Luc Rocher (Imperial College London)
+146. Lucy Wyman
+147. Ludovic Gasc
+148. Ludvig Norgren Guldhag
+149. Luis Antonio Sánchez Romero
+150. Luis Arruda
+151. Luis Lavaire (Nitrux developer)
+152. Luiz Irber
+153. Lukas Ekberg
+154. Lukas Fittl
+155. Lukas Grossar
+156. Lukas Häusermann
+157. Lukas Märdian (Ubuntu Core Developer)
+158. Lukasz Erecinski
+159. Łukasz Jendrysik
+160. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
+161. Luke Crouch
+162. Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
+163. Luke Jones (asus-nb-ctrl, ASUS ROG laptop hacker/support)
+164. Luke Triantafyllidis
+165. Lulu Cathrinus "erkin" Grimalkin
+166. Luna Duclos
+167. Lunar (ex-Debian, ex-Tor, ex-reproducible-builds.org, Nos Oignons, La Dérivation)
+168. Lupe Canaviri
+169. Lup Yuen Lee
+170. Lux Amelia Phifollen
+171. Lyre Calliope
+172. Maarten Beeckmans
+173. Maarten Dirkse
+174. Mackenzie 'maco' Morgan (former Ubuntu Developer Membership Board member)
+175. Maddison Hellstrom
+176. Madhulika Chambers (NumPy contributor)
+177. Madison `makyo` Scott-Clary
+178. Mads Johansen
+179. Mae Dartmann
+180. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
+181. Magnus Krüger
+182. Mairi Dulaney (Fedora Project contributor)
+183. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
+184. Malleck Braun
+185. Malte `m4schini` Schink
+186. Malvika Sharan (The Alan Turing Institute; Community Manager of The Turing Way project and Co-founder of Open Life Science)
+187. Mandy Henk
+188. Mano Marks
+189. Manuel Genovés (GNOME)
+190. Manuel González
+191. Manuel Spitschan (University of Oxford)
+192. Manuel Uberti
+193. Marc-Antoine `Keruspe` Perennou (Exherbo)
+194. Marcantonio Rendino
+195. Marcel Kapfer
+196. Marcel Kuehlhorn (openSUSE contributor)
+197. Marcelo Teider Lopes
+198. Marcel Timmer
+199. Marcin Konowalczyk (they/them, University of Oxford)
+200. Marco 'eukara' Hladik
+201. Marco Matos (Blockchain Director & Cloud Architect at 23 Bulbs)
+202. Marcos Sebastiao
+203. Marcus Müller (Former GNU Radio Maintainer, GNU Radio General Assembly member)
+204. Marcus Weiner
+205. Marek Kubica
+206. Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
+207. María Arias de Reyna Domínguez (former OSGeo President, ASF member, maintainer on several FOSS projects)
+208. Mariana Meireles Gontijo (Jupyter contributor, Mozilla contributor)
+209. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
+210. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
+211. Mario Rodríguez Carrasco
+212. Mario Sánchez Prada (Igalia, GNOME)
+213. Mario Torre
+214. Marius Gedminas
+215. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
+216. Marius Quabeck (NerdZoom Media)
+217. Mark Baggett
+218. Mark Brown (Linux, Debian)
+219. Mark Filion (Collabora)
+220. Mark Musante
+221. Markos Fragkakis
+222. Mark Paluch
+223. Mark Tomko
+224. Markus Bohnensack
+225. Markus `kmi` S. (Chaos Computer Club)
+226. Markus Unterwaditzer
+227. Marquis Kurt
+228. Marta Rybczynska
+229. Marte Træen
+230. Martijn Bos(Galavanto)
+231. Martina Ferrari (Debian developer)
+232. Martin Bayo
+233. Martin Gollowitzer
+234. Martin Guillon
+235. Martin Kühl
+236. Martin Michlmayr (Former Debian Project Leader)
+237. Martin Robinson (Igalia)
+238. Martin Splitt
+239. Martin Wimpress (Former FSF member)
+240. Martyn Welch (Collabora)
+241. Mason Jones
+242. Matheus Fantinel
+243. Mathieu Comandon (Lutris)
+244. Matt
+245. Matt Barron
+246. Matt Beland
+247. Matteo Bigoi
+248. Matteo Tammaccaro
+249. Matthew (0tcQd) Sams
+250. Matthew Adams
+251. Matthew Ahrens (OpenZFS)
+252. Matthew Cowie
+253. Matthew Fernandez
+254. Matthew Helmke (open source author)
+255. Matthew `mattcen` Cengia
+256. Matthew P. Del Buono
+257. Matthew Peveler
+258. Matthew Pounsett
+259. Matthew R. Green (NetBSD core, bozohttpd, ircII)
+260. Matthew Robertson
+261. Matthew Seal
+262. Matthew Stedman
+263. Matthew Stone
+264. Matthew S. Wilson (former contributor GNU Image Manipulation Program and GNU Parted, former Director, Software Freedom Conservancy)
+265. Matthew Venn
+266. Matthew Vernon (Debian developer)
+267. Matthew Westcott (`gasman`, Wagtail CMS maintainer)
+268. Matthew Wilcox (Linux kernel hacker)
+269. Matthias Antierens
+270. Matthias Arnason
+271. Matthias Bussonnier (Project Jupyter co-founder)
+272. Matthias Klumpp (Debian, freedesktop.org)
+273. Matthias Schiffer (OpenWrt committer)
+274. Matthias `smurf` Urlichs (Debian developer)
+275. Matthieu Gallien (KDE)
+276. Matthilde A. Stella
+277. Mattias Bengtsson (Former GNOME Maps maintainer)
+278. Mattias Wadenstein (Debian developer and ACC sysadmin)
+279. Matt Lee (Libre.fm, former member of the GNU Project, former FSF staff)
+280. Matt Ray (former FSF member)
+281. Matt Travi
+282. Mauro Lizaur (Former Debian Developer)
+283. Max Bruckner (`FSMaxB`)
+284. Max Burke
+285. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
+286. Maximiliano Ferrer G. (@PandaFoss)
+287. Maxine Aubrey (NixOS contributor)
+288. Max Perrello
+289. Maya L.
+290. Maya Rashish (NetBSD)
+291. Meadhbh Hamrick
+292. Megan Marsh
+293. Meghan Denny (`nektro`)
+294. Mehdi Dogguy (Former Debian Project Leader)
+295. Melanie Kat
+296. Melissa Boiko
+297. Melissa Di Donato (CEO, SUSE)
+298. Melissa Draper
+299. Mélissa Richard
+300. Melissa Weber Mendonça
+301. Melody ✨
+302. Merlijn Sebrechts (`galgalesh`)
+303. Mica Eliza Geßner
+304. Micah Anderson
+305. Micah E Scott
+306. Micah Lee
+307. Michael Babker (Former Production Department Coordinator for Joomla!/OpenSourceMatters)
+308. Michael Bikovitsky
+309. Michael B. Klein
+310. Michael Bond (FSF Associate Member)
+311. Michael Carbone (Qubes OS)
+312. Michael Dexter
+313. Michael Downey (United Nations Foundation)
+314. Michael Gat
+315. Michael Hoffmann
+316. Michael Juarez
+317. Michael Käufl
+318. Michael Kees
+319. Michael Kohler (Mozilla volunteer)
+320. Michael Laird
+321. Michael `lethargilistic` MacTaggert (Programming Discussions server on Discord)
+322. Michael Lingelbach (Neovim, NixOS contributor)
+323. Michael Mattsson (@datamattsson)
+324. Michael `NCommander` Casadevall (Ubuntu Core Developer, former Debian Developer, former FSF Savannah Administrator)
+325. Michael Ossmann
+326. Michael `ovyerus` Mitchell
+327. Michael Perron
+328. Michael Pyne (KDE, game-music-emu)
+329. Michael Reiger
+330. Michael Schechter
+331. Michael Scherer
+332. Michael Staggs (tausciam)
+333. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
+334. Michal Siedlaczek
+335. Michel Alexandre Salim (Fedora Project contributor)
+336. Mic Whitehorn-Gillam
+337. Miguel Raz Guzmán Macedo, (Julia Language, UNAM, @miguelraz on Github)
+338. Mikalai Birukou (3NSoft)
+339. Mika Pflüger
+340. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
+341. Mike Elsmore (@ukmadlz everywhere)
+342. Mike Harris
+343. Mike Hawk
+344. Mike Hoye (mhoye, Mozilla)
+345. Mike Linksvayer
+346. Mikel Johnson
+347. Mike Olson (Postgres, Berkeley DB, Cloudera)
+348. Mike Patterson
+349. Mike Wyatt
+350. Mikhail Popov (Wikimedia Foundation)
+351. Milan Pässler (Chaos Computer Club, NixOS contributor)
+352. Milo Casagrande
+353. Ming-ting Yao Wei (Debian Developer, former LXTerminal developer)
+354. Minho Ryang (@minhoryang on Github)
+355. Mirko Boehm (KDE)
+356. Mithun Hunsur
+357. M. Oliver Ghingold
+358. Molly White (@molly on GitHub)
+359. Monica Ayhens-Madon
+360. Morgan-Christopher Brooks
+361. Morgan Fletcher
+362. Morgan `indrora` Gangwere
+363. Morgan Lemmer-Webber
+364. Morgan MacKechnie
+365. Morgan Thomas
+366. Moritz Bunkus (MKVToolNix)
+367. Moritz Schmidt
+368. Morris Jobke (Nextcloud)
+369. Morten Linderud (Arch Linux maintainer)
+370. M. Scott Ford (CEO, Corgibytes)
+371. Much0m0rek
+372. Mx Craven
+373. Myriam Rita Schweingruber
+374. Myrle Krantz (ASF member)
+375. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
+376. Naglis Lesčinskas
+377. Nalin Dahyabhai
+378. Naomi Ceder (former director & past chair, Python Software Foundation)
+379. Natacha Rault (les sans pagEs)
+380. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
+381. Natalie Amery (née Jonathan)
+382. Natan B. C. "`natanbc`"
+383. Nat Budin
+384. Nate Hill (Director, Metropolitan New York Library Council)
+385. Nathan Dyer (former FSF associate member)
+386. Nathan Handler (Ubuntu/Debian Developer, freenode Staff, SeaGL Program Committee Co-Chair)
+387. Nathanial (`d0nut`) Lattimer
+388. Nathaniel J. Smith
+389. Nathan Moos (@moosingin3space, drive-by Rust, NixOS, and Firefox contributor)
+390. Nathan Ritchie
+391. Nathan Shelly
+392. Neal Gompa (Fedora Project contributor, Mageia Project Council Member, Mageia.Org Board Member, openSUSE Project Board Member, OpenMandriva contributor)
+393. Neel Chauhan (FreeBSD Ports Committer, Tor Core Contributor)
+394. Neil Watson (Former CFEngine Community Advisory Board Member)
+395. Nelson Minar
+396. Nic FitzGerald (Co-Founder Sailex)
+397. Nicholas LaPointe (Krita contributor)
+398. Nicholas Paladino
+399. Nick Badal
+400. Nick Chambers
+401. Nick Davis
+402. Nick Gerace (Software Engineer at SUSE and Rancher Labs)
+403. Nick Guenther
+404. Nick Mathewson (Co-founder, Tor Project)
+405. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
+406. Nick Pettazzoni
+407. Nick Richards
+408. Nick Ruest
+409. Nick Sieger
+410. Nick Wanninger (@nickwanninger)
+411. Niclas Zeising (FreeBSD committer)
+412. Nicolai von Neudeck
+413. Nicolás Alvarez (KDE)
+414. Nicolas Dandrimont (Debian Developer, former FSF associate member)
+415. Nicolas Fella (KDE)
+416. Nicolas Fleurot
+417. Nicolás Javier Salazar Echeverry
+418. Nicolas Machado
+419. Nicolás `nomeacuerdo` Arteaga
+420. Nicolas Schier (Debian maintainer)
+421. Nicole Faerber
+422. Nicole Martinez
+423. nicoo (Debian Developer, NixOS and Rust contributor)
+424. Niels Grewe (GNUstep contributor)
+425. Niels G. W. Serup
+426. Niels Thykier (Debian Developer)
+427. Nikhita Raghunath (Kubernetes Steering Committee Member)
+428. Nikita Gillmann (ex-GNUnet developer, former GNU Guix contributor, NetBSD/pkgsrc developer)
+429. Nikita Orlov (`rozenov` Virtualization engineer, Red Hat inc. supporter, Fedora contributor and former Xen contributor)
+430. Nik Kantar
+431. Nikolai Vazquez
+432. Nikolaus Einhauser (Mixxx developer)
+433. Nikos Roussos (FSFE, GA member)
+434. Nils Adermann
+435. Nils Philippsen (Fedora Project contributor)
+436. Nils Ratusznik (LinuxFr.org team member, NetBSD/pkgsrc developer)
+437. Nina Eleanor Alter
+438. Nirbheek Chauhan (GStreamer, GNOME, Mesonbuild; former Gentoo developer)
+439. Nisha Kumar
+440. Nishkarsh Raj
+441. Nixon Enraght-Moony
+442. Noah/`coolreader18` (RustPython maintainer)
+443. Noah Hall
+444. Noel Cower
+445. Noel Georgi
+446. noirscape
+447. Nora Moldestad
+448. Norbert Tretkowski (Debian Developer, FSFE Supporter)
+449. Nordine Bittich
+450. Nyx DeMarco (@ZephyraSilentis)
+451. Odhiambo Dormnic (@ayimdomnic)
+452. Ole Bang Ottosen (Former Core Team member Production/Community Joomla!/OpenSourceMatters)
+453. Ole Streicher (Debian Developer)
+454. Oliver Drotbohm
+455. Oliver Falk (Libravatar project)
+456. Oliver Ni
+457. Oliver Propst (GNOME)
+458. Olivier Berger (FSF member, or associate member since 2002)
+459. Olivier Crête (Collabora, GStreamer)
+460. Olivier Duquesne (DaffyDuke, French LUG volonteer)
+461. Ollivier Robert (FreeBSD committer, long-time free software dev.)
+462. Omar Akkila (Collabora)
+463. Ondřej Surý (Debian Developer; Director of DNS Engineering @ ISC)
+464. Orhun Parmaksız (Arch Linux maintainer)
+465. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
+466. Otavio Carneiro (2carneiros.tv)
+467. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
+468. Owen Anderson
+469. Owen Kirby
+470. Owen O'Malley (Apache Hadoop, Hive, and ORC)
+471. Owen Sullivan
+472. Owen Williams (Mixxx Developer)
+473. Øystein Øverng
+474. Pablo Costas Sánchez
+475. Pablo Martín Oldani
+476. Pablo Rauzy (former FSF associate member)
+477. Pamela S. Chestek (Open Source Initiative Director)
+478. Panagiotis Vasilopoulos
+479. parabirb
+480. Parker Higgins
+481. Park Seonu
+482. Partha Sarathy Thanka Raj
+483. Pascal Jufer
+484. Pascal Klaßen (@klassenpascal22)
+485. Pat Allan
+486. Pat Hickey
+487. Patrick Brunier (Former GNU webmaster, Owner of Brunjee - Liberating Technology)
+488. Patrick Engelman
+489. Patrick Geahan
+490. Patrick Lam
+491. Patrick Meyer (`HerrSpace`)
+492. Patrick Pouw
+493. Patrick Robinson
+494. Patrick Wu (Ubuntu developer)
+495. Patric Mueller (NetHack DevTeam member)
+496. Patryk Nogaś (@PatrykNog)
+497. Paul Adams
+498. Paula de la Hoz Garrido (Interferencias association president and cofounder)
+499. Paul Aguilar (`penserbjorne` from LIDSOL)
+500. Paul Burdick
+501. Paul Cutler (former GNOME Foundation)
+502. Paul Fisher (Former FSF employee and union representative)
+503. Paulino Michelazzo (Founder Brazilian Drupal Association, PT-BR Drupal revisor, Pinguino de Honor)
+504. Paul McLanahan (Engineer at Mozilla)
+505. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
+506. Paulo Henrique de Lima Santana (Debian Developer)
+507. Paul Oldham
+508. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
+509. Paul Visscher (former GNU chief webmaster)
+510. Paul Wankadia
+511. Paul Woolcock
+512. Paul Wouters (Libreswan, Fedora developer)
+513. Paweł Krupa
+514. Peder Bergebakken Sundt
+515. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
+516. Pedro Cunha
+517. Pedro Juan Ferrer Matoses
+518. Pedro Valentim
+519. Percival Lavoie
+520. Perro Tuerto (Programando LIBREros)
+521. Peter Aufner (`Adrixan`)
+522. Peter Benjamin (`pbnj`)
+523. Peter C. Jentsch
+524. Peter Eisner
+525. Peter Hazenberg (`Peetz0r`)
+526. Peter Huene
+527. Peter Hunt
+528. Peter Hutterer
+529. Peter Jones (Fedora developer)
+530. Peter K. G. Williams (`@pkgw`)
+531. Peter Ludikovsky
+532. Peter Robinson (Fedora developer, former Fedora Board and Council member)
+533. Peter Sharpe (@peterdsharpe)
+534. Peter Squicciarini (`@stripedpajamas`; Flossbank, VSCodium)
+535. Peter Stein
+536. Peter Van Eynde
+537. Petrohs
+538. Phil Dibowitz
+539. Philip Balister
+540. Philip Chimento (`ptomato`; Igalia, GNOME Foundation director)
+541. Philip Dolbel
+542. Philip Gillißen
+543. Philip Hands (Former Debian Technical Committee member)
+544. Philip Lindsay
+545. Philippe Kalaf (Collabora)
+546. Philippe Normand
+547. Philip Withnall
+548. Philip Young
+549. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
+550. Pierre-Antoine "Leny" Delnatte
+551. Pierre Dupont
+552. Pierre Marijon
+553. Pierre Ozoux (@pierreozoux)
+554. Pierre-Yves (Solus)
+555. Pierros Papadeas (Board member, Libre Space Foundation)
+556. Pieter De Praetere
+557. Pietro Gagliardi (`andlabs`; currently at Google)
+558. Piotr Drąg (GNOME, Mozilla and Fedora contributor)
+559. Pirate Praveen (Debian Developer, Member of FSF India Working Group)
+560. Pj Sheffield.
+561. Pranav Teegavarapu
+562. Priit Laes (`@plaes`)
+563. Rachel Chalmers (boardmember, The Ada Initiative)
+564. Rachel Domagalski
+565. Rachel Kadel
+566. Rachel Lawson (One of Drupal's many maintainers)
+567. Rafael Bautista
+568. Rafael Silva
+569. Rafael Tovar
+570. Raffaele Messuti
+571. Raghavendra Kamath (raghukamath) (Illustrator & Designer / Krita volunteer)
+572. raichoo (maintainer and contributor for various open source projects)
+573. Rainer Bendig
+574. Ralph FriarTech Loizzo
+575. Ralph Giles
+576. Rami Chowdhury
+577. Randall Carver
+578. Randall Munroe (xkcd)
+579. Randolph West
+580. Randy J. Ray (@rjray)
+581. rany
+582. Rayan Das (@raydeeam)
+583. Raymon Skjørten Hansen
+584. Red Huang (@gcaaa31928)
+585. Reed Loden
+586. Reese Rivers (@Fussmatte)
+587. Reese "xsychoreese" Todd
+588. Rémi Lauzier
+589. Rémi Verschelde (Godot Engine, Mageia)
+590. Rémy Grünblatt
+591. Renata Rocha
+592. Renaud Lepage
+593. Reuben Morais
+594. Reynir Björnsson
+595. Rhonda D'Vine (Debian Developer, Open Source Diversity)
+596. Rhys Davies
+597. Rhys Powell
+598. Ricardo Bánffy
+599. Ricardo Berlim Fonseca (Brasília, Brazil)
+600. Ricardo Salveti
+601. Richard Brown (Former openSUSE Chairman)
+602. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
+603. Richard J. Barbalace (CEO, Ailectric)
+604. Richard Kettlewell
+605. Richard Littauer
+606. Richard Lowe
+607. Richard Maw
+608. Richard Mehlinger
+609. Richard Pospesel (pospeselr, Tor Project)
+610. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
+611. Richard Schneeman
+612. Rich Felker (musl libc)
+613. Richo Healey
+614. Rich Sands
+615. Rick Scott
+616. Ricky White
+617. Ridley Combs (rcombs)
+618. Rigin Oommen
+619. Riley V. (@hopolapola)
+620. Rima Sghaier (GlobaLeaks Outreach Director)
+621. Rin K. (ry00001)
+622. Roan Kattouw
+623. Robbie Harwood (Fedora developer)
+624. Robert Barat
+625. Robert Berg
+626. Robert C Jennings (Ubuntu member, kernel dev)
+627. Robert Foss (Linux kernel dev)
+628. Robert Fridzema
+629. Robert Jacobi (Former President Joomla!/OpenSourceMatters)
+630. Robert J. Hansen (formerly of GnuPG)
+631. Robert Joslyn
+632. Robert L Davidson (data scientist, open data activist, co-founder of Scientists for EU)
+633. Robert Lipe (GPSBabel creator, contributor to open source since 87)
+634. Robert McQueen (President of the GNOME Foundation)
+635. Robert Menes (Hack Workshop Coordinator, New York Linux Users Group (NYLUG))
+636. Robert Newson (Apache CouchDB PMC, ASF Member)
+637. Robert Vollmert
+638. Robey Pointer (paramiko, eggdrop)
+639. Robin Bowes
+640. Robin Michael
+641. Robin Ward (Discourse Co-Founder)
+642. Robin Widegren
+643. Rob Knight (CTO, Enterprise Cloud Products @ SUSE)
+644. Rob Smith (SeaGL Co-Founder)
+645. Rob Vincent
+646. Rob White
+647. Robyn Speer (ConceptNet)
+648. Roger Light
+649. Roger Robertson (strangrjrjr)
+650. Roger Zanoni (Igalia)
+651. Rojen Zaman
+652. Romain Menke
+653. Romina Suarez (@rowasc)
+654. Rosanna Yuen (GNOME Foundation)
+655. Rose Davidson
+656. Rosellyne Worrall
+657. Ross A. Baker
+658. Rossella Sblendido (OpenStack, OPNFV, LF Networking)
+659. Ross Lannen
+660. Ross MacArthur (@rossmacarthur)
+661. Ross Nelson
+662. RT Hatfield (@panzertime)
+663. Ruben Pollan (meskio)
+664. Ruben Schade
+665. Rubi Jihantoro
+666. Russ Allbery (Debian Developer, FSF associate member since 2003)
+667. Russell Keith-Magee (@freakboy3742; former President, Django Software Foundation; Founder, BeeWare Project)
+668. Rute Correia
+669. Ryan A. Pavlik (Collabora, Monado Co-Founder, OpenXR Spec Editor)
+670. Ryan Castellucci (@ryancdotorg, former LUGOD officer)
+671. Ryan C. Cooper (@cooperrc)
+672. Ryan Clark
+673. Ryan (DasGeek) (Host of Destination Linux, Partner of Destination Linux, LLC.)
+674. Ryan Finnie (Finnix founder; Debian; Ubuntu)
+675. Ryan Gannon
+676. Ryan Gonzalez
+677. Ryan Heywood
+678. Ryan Hoagland (sothis6881)
+679. Ryan Lahfa
+680. Ryan McNeely
+681. Ryan Petrello (Ansible AWX Maintainer, Red Hat)
+682. Ryan P. Joseph
+683. Ryan Prior (LibrePlanet speaker, GNU Guix, FSF member)
+684. Ryan Salsamendi
+685. Ryan Schmidt
+686. Ryu "SaidBySolo" JuHeon
+687. Sadie Powell (InspIRCd)
+688. Sai Vamshi (Business Analyst)
+689. Sajid Ali
+690. Sally Jo Cunningham (Waikato University)
+691. Sam Bailey
+692. Sambhav Saggi
+693. Sam Buccieri-Gillett
+694. Sam Hartman (Former Debian Project Leader)
+695. Sam Hocevar (Former Debian Project Leader)
+696. Sam Kottler
+697. Sam Muirhead
+698. Sammy Fung (GNOME, Mozilla, Open Source Hong Kong, PyCon HK)
+699. Sam Osano
+700. Sam Pavlovic
+701. Sam Phillips
+702. Sam Pichardo
+703. Sam Pikesley
+704. Sam Pritchard
+705. Sam Shrum
+706. Sam Sidler (10up, WordPress, former Mozilla)
+707. Sam Tobin-Hochstadt
+708. Samuel Scheiderich
+709. Sam van der Kris
+710. Sander Steffann (@sjmsteffann / sjms)
+711. Sander van der Waal (Waag)
+712. Sandra McCann (samccann)
+713. Sandro Jäckel (NixOS contributor)
+714. Sandro Knauß (Debian, KDE)
+715. Santeri Kasvi
+716. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
+717. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
+718. Santosh Mahto (Collabora)
+719. Saptak S
+720. Sarah Aladetan
+721. Sarah Connor
+722. Sarah Vitak
+723. Sarah Voegeli
+724. Sara Stephens (SUSE)
+725. Sarina Canelake
+726. Sarven Capadisli
+727. Sasha Cuerda
+728. Sasha Weiss
+729. Sasi Olin (openSUSE Member, former openSUSE Board member)
+730. Satvik Sharma
+731. Savin Goyal
+732. Sayan Chowdhury (@yudocaa)
+733. Scott Hain
+734. Scott Leggett (Debian Maintainer)
+735. Scott Martin
+736. Scott Randby
+737. Scott Starr
+738. Scott Sweeny
+739. Scott Walters
+740. Sean Davis (Xfce, Xubuntu)
+741. Sean Eric Fagan
+742. Sean Howard
+743. Sean Knox
+744. Sean McGinnis
+745. Sean O'Brien
+746. seb1g
+747. Sebastian Dröge (GStreamer, GNOME, Debian)
+748. Sebastian Kügler (KDE)
+749. Sebastian Ramacher (Debian Developer)
+750. Sebastian Stauch (@sebidude)
+751. Sébastien Villemot (Debian Developer, FSF associate member)
+752. Seebs
+753. Selam Gano
+754. SeongHyun Lee (Kevin Lee / 케빈 리)
+755. Seraphim R.P. (Kerygma Digital)
+756. Seth Aldini
+757. Seth Hillbrand
+758. Seth Marinello (former CPLUG Officer)
+759. Seth McCombs
+760. Seth Peasley
+761. Seunguk Lee
+762. Shadi Alostaz
+763. Shane Coughlan
+764. Shane Curcuru (Punderthings Consulting)
+765. Shane Fagan
+766. Shane Snover
+767. Shannon Dosemagen
+768. Shaohua Wen (former Mozilla zh-CN L10n Team Leader)
+769. Shaun Mouton
+770. Shaun Murphy
+771. Shaurya (`coolshaurya`)
+772. Shawon Ashraf
+773. Shelly Coen
+774. Sherif Mansour (OWASP Community)
+775. Sherman Mui
+776. Shiz (former Alpine Linux developer)
+777. Shmueli Yosef Englard (@Shmuelie)
+778. Siddhesh Poyarekar (glibc contributor, FSF associate member)
+779. Signed Kiran Graefenstedt
+780. Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
+781. Silje Christiansen
+782. Simeon "n0emis" Keske
+783. Simeon Smith
+784. Simon Bowie
+785. Simon Cozens
+786. Simonetta Batteiger
+787. Simon McVittie (Collabora, Debian Technical Committee member)
+788. Simon Menke (`fd`)
+789. Simon Phipps (Former OSI President)
+790. Simon Richter
+791. Simon Wistow
+792. Sjoerd Simons (Collabora, Debian Developer)
+793. Skaira Eris
+794. Skylar Alexandra Bleed
+795. Skylar "`radioSight`" M.
+796. Solène Garda-Krebs
+797. Solly Ross (Kubernetes KubeBuilder maintainer)
+798. SomeHacker
+799. Song Li
+800. Sophie Herold (GNOME Foundation member)
+801. Soren L. Hansen
+802. Spencer Hunley
+803. Srayan Jana
+804. Sriram Ramkrishna (Former GNOME board member)
+805. Sruthi Chandran (Debian Developer)
+806. Starchy Grant (EFF, signing in personal capacity)
+807. Stefan Bethke
+808. Stefan Crain
+809. Stefanie Schirmer
+810. Stefan Kramer
+811. Stefan T. Peters
+812. Stefan Weiberg (Technical Projectmanager SUSE Linux Enterprise)
+813. Stelios Milidonis (Collabora)
+814. Stemy (amateur independant self-host)
+815. Stephan Barth (Technical Project Manager for Maintenance, SUSE)
+816. Stephane Graber (LXC, former Ubuntu Technical Board member)
+817. Stephanie Gruss (@sagruss)
+818. Stephanie Whited
+819. Stephan Lachnit (Debian Maintainer)
+820. Stephen A. Goss
+821. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
+822. Stephen Hemminger (Iproute2 Maintainer)
+823. Stephen Jacobs
+824. Stephen O'Grady
+825. Step Schwarz
+826. Steve Axthelm
+827. Steve Desmond
+828. Steve Gilissen
+829. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
+830. Steve McIntyre (Former Debian Project Leader)
+831. Steven Beattie
+832. Steven Dake (Former: elected OpenStack BOD member, Heat PTL, former Kolla PTL, Corosync lead)
+833. Steven DuBois (former FSF intern)
+834. Steve Pletcher
+835. Steve Pomeroy
+836. Steve Widinghoff
+837. Stew O'Connor (former Debian debeloper, former freenode staff)
+838. Stig Sandbeck Mathisen (Debian Developer)
+839. Stuart Auld
+840. Stuart A Yeates (former OSS Watch staffer)
+841. Stuart Harrison
+842. Stuart Langridge
+843. Stuart Spence
+844. Subhashish P. (open culture advocate)
+845. Sune Stolborg Vuorela, (Debian, KDE)
+846. Sven `DrMcCoy` Hesse
+847. Sven Hüster
+848. Sy Brand (Microsoft)
+849. Sydney Schreckengost
+850. Syds Bearda (openSUSE member + treasurer)
+851. Sylvestre Ledru (Debian, LLVM and Mozilla)
+852. Taavi Väänänen (MediaWiki)
+853. Tab Atkins-Bittner (@tabatkins, active W3C/TC39/WHATWG editor)
+854. Taher Chegini (@cheginit)
+855. Tamás Szelei
+856. Tamreen Khan
+857. tanmatsu
+858. Tanner Filip
+859. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
+860. Tanya Lattner (LLVM Foundation)
+861. Taowa (Debian Developer, former LP keynote panelist)
+862. Tasos Latsas
+863. tastytea
+864. Teo Schulze
+865. Thaddée Tyl
+866. TheEssem
+867. TheEvilSkeleton
+868. Théodore Biadala
+869. Theodor Tollersrud
+870. Theo Schlossnagle
+871. TheSpiritingPoet
+872. Thiago Jung Bauermann (former GDB contributor, Linux kernel contributor)
+873. Thibault Walterspieler (Fullstack developer at Blacksmith)
+874. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+875. Thijs van der Vossen (Fingertips)
+876. Thomas Belvin
+877. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
+878. Thomas Di Giacomo (CTO, SUSE)
+879. Thomas Guillem (VLC developer)
+880. Thomas Jepp
+881. Thomas Jost
+882. Thomas Kluyver (various Python projects)
+883. Thomas Maszerowski
+884. Thomas Pintaric
+885. Thomas Renger
+886. Thomas Rodgers (libstdc++ contributor)
+887. Thomas Sirack
+888. Thomas Wouters (former GNU contributor)
+889. Thom Chiovoloni
+890. Thorsten Behrens (director, The Document Foundation)
+891. Thorsten Leemhuis (Fedora and Linux kernel contributor)
+892. Tiago Carrondo
+893. Tiago Vinicius de Andrade Almeida
+894. Tianon Gravi
+895. Tierney Cyren (Node.js Community Committee Chairperson, Electron, OpenJS Foundation CPC)
+896. Till Schneidereit
+897. Tilman Vatteroth (@mrdrogdrog, Frontend developer at HedgeDoc)
+898. Tim Bradshaw
+899. Tim Casasola
+900. Tim D. Smith (Mozilla; former member, Homebrew PLC)
+901. Tim Eisenmann
+902. Timothée Ravier (Fedora Project Contributor)
+903. Timothy C. Quinn
+904. Tim Pierce (former GNU Guile contributor)
+905. Tim Weber (`scy`)
+906. Tiphaine Viard (Associate professor, Telecom Paris)
+907. t. Macleod Sawyer (Founder & CEO of DNX Robotics, `@macleodsawyerms` && `@drannex42`)
+908. Tobia Alberti (creator of Precisely Private)
+909. Tobias Fella (KDE)
+910. Tobias Klausmann
+911. Tobias 'knilch' Jordan
+912. Tobias Rueetschi
+913. Todd Bush
+914. Todd C. Miller (sudo maintainer, OpenBSD developer)
+915. Tod Robbins
+916. Tollef Fog Heen (Former Debian Technical Committee member)
+917. Tom Brantseg
+918. Tomeu Vizoso (Collabora, Mesa)
+919. Tom Fish (`Guerillero`)
+920. Tom Henderson (Founder, ExtremeLabs)
+921. Tom Howard
+922. Tom Lakey
+923. TomoeMami
+924. Tom Prince
+925. Tom Sorensen (Zathrus on freenode irc)
+926. Tom "spot" Callaway (Fedora Council member, former LP speaker)
+927. Tony Colston
+928. Tony Richards
+929. Tor Lillqvist (Collabora)
+930. Tracie Fabb (Collabora)
+931. Tracy Hinds (Open Source Initiative Director)
+932. Travis Brown
+933. Travis Hardiman
+934. tre murillo
+935. Trevor Bell
+936. Trevor Keller / @tkphd, enby computational scientist at NIST (National Institute of Standards and Technology)
+937. Trevor Manz
+938. Trevor McNaughton
+939. Trevor Thalacker
+940. Trinity Pointard
+941. Tristan D. Bohnen
+942. Tristan Rain Hamer
+943. Trolli Schmittlauch
+944. Tsuki "sech1p" Semeniuk
+945. Tuna Ilgaz
+946. Tux Pacific (NuCypher)
+947. Tyler Childs (D13 Labs)
+948. Tyrel Souza
+949. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
+950. Ulrike Uhlig (Debian Developer)
+951. Ursula Junque (Ubuntu member)
+952. Utku Boduroglu
+953. Vadim Rutkovsky
+954. Valerie Aurora
+955. Vanessa Oxley
+956. Vangelis Katsikaros
+957. Veeti Veteläinen (`Uumas`)
+958. Veronica Cary
+959. Vicky Rampin
+960. Victor Hugo Soliz Kuncar
+961. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
+962. Victor Westerhuis
+963. Viktoriia Leontieva (Product Designer at GitHub)
+964. Vince Asta
+965. Vincent Broz (`@apiology`)
+966. Vincent Esche
+967. Vincent Huang Jiahao
+968. Vincent Milum Jr (@DarkainMX)
+969. Vincent Singer (aka cukmekerb)
+970. Vincent Wong
+971. Vincenzo Palazzo (@vincenzopalazzo)
+972. Vinicius Mignot (`@locao`)
+973. Vipul Gupta
+974. Vipul Siddharth (Fedora Project Contributor)
+975. Virgile Ferroukh
+976. Vitor "Krammer" Cardoso
+977. Vittorio Roberto Alfieri (`@rebtoor`, FSFE supporter, EFF member)
+978. Vivek Das Mohapatra (Collabora)
+979. Vivia Nikolaidou (GStreamer)
+980. Vivian Lim (Microsoft)
+981. Vladimir Cortés
+982. Vojtěch Vengrin (GNOME Translator)
+983. void witch
+984. Volkan Yazıcı (Apache Logging Services PMC)
+985. Vyivel
+986. Ward Vandewege (Former FSF staff and FSF member)
+987. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+988. Weilbyte
+989. Wendy Bolm (Chief Operations Officer, CommitChange)
+990. Wendy Seltzer
+991. Werner Mahr
+992. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+993. Weston Steimel
+994. Wez Furlong
+995. Wheeler Law (Red Hat Inc.)
+996. whitequark
+997. Will Barton
+998. Will Greenberg (EFF, signing in personal capacity)
+999. Will Hawkins
+1000. Will Hunt (`Half-Shot`)
+1001. William Brown (389 Directory Server, SUSE Labs)
+1002. William Denton
+1003. William D. Jones (`cr1901`)
+1004. William Gathoye (Collabora)
+1005. William Kroes
+1006. William Light (@wrl)
+1007. William Orr (@worr)
+1008. William Starkey
+1009. William Theaker (Former FSF staff member)
+1010. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
+1011. William Wilson (Ubuntu Developer)
+1012. Williham Williham Totland
+1013. Will Lachance (Mozilla)
+1014. Will Thompson
+1015. Wilson "Chilly" Hightower
+1016. Wim Taymans (PipeWire, GStreamer)
+1017. Wolthera van Hövell (Krita/KDE)
+1018. Woohyeong Kim
+1019. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
+1020. Wren Turkal (wt on GitHub; @w00tSoeaks)
+1021. Wulf C. Krueger (Exherbo Linux)
+1022. Xabier Rodríguez Calvar (Igalia)
+1023. Xavier Claessens (Collabora)
+1024. Xavier Tilley
+1025. Xavi Francisco
+1026. Xav Paice
+1027. Yadav Lamichhane
+1028. Yalın Pala
+1029. Yangwook Jeong (@Yangeok)
+1030. Yannick Sabau
+1031. Yann Ramin
+1032. Yao Li (former FSF Monthly Student Associate Member)
+1033. Yaroslav Kargapolov
+1034. Yeaji Shin (@Bloodevil)
+1035. Yegor Timoshenko (NixOS contributor)
+1036. Yorik van Havre
+1037. Youko Omori (Collabora)
+1038. Youngbin Han (Ubuntu Korea Community)
+1039. Young Hun Kim
+1040. Youness Alaoui (@kakaroto)
+1041. Yo Yehudi (Co-founder of Open Life Science)
+1042. Yuval Adam
+1043. Yuvi Panda (Project Jupyter)
+1044. Yu-Wei Wu
+1045. Yvan Sraka
+1046. Yvonne Lam
+1047. Z
+1048. Zac Adam-MacEwen (Arcana Labs)
+1049. Zachinquarantine
+1050. Zach Klippenstein (aka @zach-klippenstein, Square)
+1051. Zach Lipton
+1052. Zach van Rijn
+1053. Zack Cerza
+1054. Zack Urlocker
+1055. Zak Rogoff (former FSF staff)
+1056. Zander Brown (GNOME and more)
+1057. Zeltzin Rodríguez
+1058. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
